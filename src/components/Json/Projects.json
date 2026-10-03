@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website with an attractive and responsive design. It showcases my skills, projects, and achievements in a visually appealing manner.",
+    "image": "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790923683/Screenshot_2026-10-02_134419_ptryf9.png",
+    "images": [
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790923683/Screenshot_2026-10-02_134419_ptryf9.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790923781/Screenshot_2026-10-02_134920_kj81rm.png"
+    ],
+    "category": "Portfolio",
+    "tech": ["React", "TypeScript", "Tailwind CSS"],
+    "url": "",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "title": "JHIC Competition Website",
+    "description": "A collection of websites created for the JHIC competition, showcasing various projects and innovations.",
+    "image": "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790925019/Screenshot_2026-10-02_140540_hndztf.png",
+    "images": [
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790925019/Screenshot_2026-10-02_140540_hndztf.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790925058/Screenshot_2026-10-02_141042_st5gtx.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790925734/Screenshot_2026-10-02_142146_v3ruhx.png",
+      "http://res.cloudinary.com/ddiulakke/image/upload/v1784084721/f2a7c01e-3ca0-41a5-a584-81fcaab33ae3.png"
+    ],
+    "tech": ["Laravel", "PHP", "SASS", "MySQL"],
+    "category": "School Website",
+    "url": "",
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "title": "Surya Cipta Gemilang Konstruksi",
+    "description": "This website-based company profile is designed to provide a deeper understanding of PT. Surya Cipta Gemilang Konstruksi. You could say this is a real project based on a client’s request.",
+    "image": "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790929120/Screenshot_2026-10-02_151821_xrkznq.png",
+    "images": [
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790929120/Screenshot_2026-10-02_151821_xrkznq.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790928584/Screenshot_2026-10-02_150859_k1g5kg.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790931614/Screenshot_2026-10-02_155937_gmexup.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790933969/SCGK_PW_hxumt7.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790932361/Screenshot_2026-10-02_161207_rwbngt.png"
+    ],
+    "tech": ["React", "TypeScript", "Tailwind CSS", "MySQL"],
+    "category": "Company Profile Website",
+    "url": "https://scgk.co.id",
+    "status": "completed"
+  },
+  {
+    "id": 4,
+    "title": "UKK StayEase",
+    "description": "I created this website for a school project called the Uji Kompetensi Keahlian (UKK). The theme is hotel reservations.",
+    "image": "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790933396/Screenshot_2026-10-02_162921_uccnqj.png",
+    "images": [
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790933396/Screenshot_2026-10-02_162921_uccnqj.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790933570/Screenshot_2026-10-02_163228_k8hdxy.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790933871/Screenshot_2026-10-02_163721_vr4rv3.png"
+    ],
+    "tech": ["PHP", "Laravel", "SASS", "MySQL", "Vite", "Midtrans"],
+    "category": "Hotel Website",
+    "url": "",
+    "status": "completed"
+  },
+  {
+    "id": 5,
+    "title": "Rean Restaurant",
+    "description": "I created this website for a school project called the Uji Kompetensi Keahlian (UKK). The theme is hotel reservations.",
+    "image": "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790934993/Screenshot_2026-10-02_165558_eps8l4.png",
+    "images": [
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790934993/Screenshot_2026-10-02_165558_eps8l4.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790952089/Screenshot_2026-10-02_214056_qmzlgb.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790952116/Screenshot_2026-10-02_214147_po8cdj.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790952142/Screenshot_2026-10-02_214215_y7l6rx.png",
+      "https://res.cloudinary.com/dsdpnyakl/image/upload/v1790952185/Screenshot_2026-10-02_214254_aq5btr.png"
+    ],
+    "tech": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Golang",
+      "PostgreSQL",
+      "Midtrans"
+    ],
+    "category": "Restaurant Website",
+    "url": "",
+    "status": "completed"
+  }
+]
